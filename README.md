@@ -18,7 +18,9 @@ The core of the problem is twofold:
 In my quest to understand why students often find themselves easily distracted on YouTube, I embarked on a user search. Through this journey, I uncovered a significant revelation: the algorithm’s remarkable proficiency in recommending highly engaging content poses a considerable challenge for users striving to adhere to their educational objectives. Additionally, I discovered a crucial aspect: users must actively select the content they wish to engage with. This realization underscored the pressing need for a feature dedicated to assisting users in maintaining their focus during study sessions.
 
 As I delved deeper into my research, I meticulously documented the trends I observed, coupling them with illuminating insights. Subsequently, in a thorough analysis, I carefully scrutinized both the positive and negative aspects of each user objective. Furthermore, I proposed potential enhancements aimed at alleviating distractions and improving the overall user experience.
-![insights from user research](insights from user research.png)
+
+
+![insights from user research](researchinsights.png)
 
 
 ## Brainstorming and Analyzing Solutions
