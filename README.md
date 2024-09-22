@@ -32,6 +32,8 @@ In response to this pressing need, I collaborated with peers and mentors to brai
 - **Annotate Videos and Queued Playlists**: This feature enhances organization by allowing users to add personal notes to videos and create queued playlists. By annotating videos, users can highlight key points or jot down important information for future reference.
 
 After thorough analysis, we concluded that **Study Mode** held the most promise for further development. Its straightforward approach directly addresses the distraction problem, making it an ideal candidate for further exploration and refinement.
+![insights from user research](brainstorminganalysis.png)
+
 
 ## Designing the Study Mode
 
