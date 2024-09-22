@@ -32,7 +32,7 @@ In response to this pressing need, I collaborated with peers and mentors to brai
 - **Annotate Videos and Queued Playlists**: This feature enhances organization by allowing users to add personal notes to videos and create queued playlists. By annotating videos, users can highlight key points or jot down important information for future reference.
 
 After thorough analysis, we concluded that **Study Mode** held the most promise for further development. Its straightforward approach directly addresses the distraction problem, making it an ideal candidate for further exploration and refinement.
-![insights from user research](brainstorminganalysis.png)
+![solution brainstorming analysis](brainstorminganalysis.png)
 
 
 ## Designing the Study Mode
@@ -46,18 +46,16 @@ After thorough analysis, we concluded that **Study Mode** held the most promise 
 The development process included creating low-fidelity sketches to visualize these concepts, followed by the creation of an information hierarchy diagram to illustrate how the feature integrates with the existing YouTube interface.
 
 This information hierarchy figure represents how the user will access my feature from the greater YouTube app and possible explorations of where the user can go and do.
+![information hierarchy](infohierarchy.png)
 
 ## Implementation and Testing
 
 After designing the interface, I moved on to the interactive design phase, creating medium-fidelity prototypes using existing UI kits. These prototypes were then tested with users to gather feedback and refine the design. The final design focuses on the core functionality of the **Study Mode**, providing a clear and concise user experience that emphasizes academic content.
-
-### Medium-Fidelity Prototypes
-
-My medium fidelities contain explorations of the feature from different entry points to the end.
-
-### High-Fidelity Prototypes
+![my medium fidelities which contains some explorations of the feature from different entry points to the end](meduimfidelities.png)
+![high fidelities](highfidelities.png)
 
 I selected the third flow as the final iteration because it emphasizes the core functionality of **Study Mode** — accessing and watching academic videos. Unlike the other flows focused on customization and settings, this flow showcases the primary feature, enhancing user engagement and comprehension within a concise and straightforward experience.
+![final flow](finalflow.png)
 
 ## Conclusion: A Step Toward Focused Learning
 
